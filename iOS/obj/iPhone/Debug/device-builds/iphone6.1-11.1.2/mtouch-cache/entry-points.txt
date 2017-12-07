@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/Greg/Projects/HelloWorld/iOS/obj/iPhone/Debug/device-builds/iphone6.1-11.1.2/mtouch-cache/Link/System.dll
+Function=mono_pmip
